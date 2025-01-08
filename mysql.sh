@@ -55,4 +55,4 @@ fi
 
 # Assignment
 # check MySQL Server is installed or not, enabled or not, started or not
-# implement the above things
+# implement the above things to do things
